@@ -1,5 +1,7 @@
 <div align="center">
 
+**⚡ This skill makes videos by code.**
+
 # 🎬 Viral Animation Lib
 ### Autonomous 3D Toon Animation Studio & Pipeline
 **2D Bean-Head Characters in a Painted 3D World · Remotion · Three.js · Python DSP Audio**

@@ -7,6 +7,8 @@ dist/
 .remotion/
 remotion-tmp/
 temp/
+_cache/
+*.cache
 
 # Renders, Output Frames, and Media Outputs (User Rule: Never push created videos or audio)
 out/
