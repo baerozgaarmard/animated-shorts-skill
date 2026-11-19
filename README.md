@@ -2,7 +2,7 @@
 
 **⚡ This skill makes videos by code.**
 
-# 🎬 Viral Animation Lib
+# 🎬 Animated Shorts Skill
 ### Autonomous 3D Toon Animation Studio & Pipeline
 **2D Bean-Head Characters in a Painted 3D World · Remotion · Three.js · Python DSP Audio**
 
@@ -122,8 +122,8 @@ Zero dependency on external audio libraries or stock music subscriptions:
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/baerozgaarmard/viral-animation-lib.git
-cd viral-animation-lib
+git clone https://github.com/baerozgaarmard/animated-shorts-skill.git
+cd animated-shorts-skill
 
 # Install Node dependencies
 npm install
