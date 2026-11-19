@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Remotion & Build artifacts
+dist/
+.remotion/
+remotion-tmp/
+temp/
+
+# Renders, Output Frames, and Media Outputs (User Rule: Never push created videos or audio)
+out/
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.ogg
+voice/
+backup/
+
+# Conversation logs & Agent Memory (User Rule: Never push conversations)
+.agent/
+docs/conversations/
+SESSION_LOG.md
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
